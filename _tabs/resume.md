@@ -6,11 +6,32 @@ order: 2
 
 ## Academic Background
 
-- BSc Information Technology – Your University
+- Barcelor of Education Arts with  Technology – Muranga University of science and technology
+- Relevant coursework: Networking, Cybersecurity, Databases
+
+## Work Experience
+
+**IT Support Intern**
+- Assisted with network troubleshooting
+- Installed and configured systems
+
+## Certifications
+
+- Cisco Networking Basics
+- Introduction to Cybersecurity
+- Cyber Shujaa CEH
 
 ## Skills
 
+**Technical Skills**
 - Linux
 - Networking
-- Nmap
 - Python
+- SQL
+
+**Security Tools**
+- Nmap
+- Wireshark
+- Metasploit
+- Burp Suite
+
