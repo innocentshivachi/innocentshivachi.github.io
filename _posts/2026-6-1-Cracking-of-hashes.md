@@ -1,7 +1,7 @@
 ---
 tittle: CRACKING   OF   HASHES
 date: 2026-6-1
-cartegories: [Cybersecurity, web]
+categories: [Cybersecurity, web]
 tags: [john the ripper, hydraa, crack station ]
 ---
 Password  carcking are one of the common techniques which attackers use to get passwords of uses
