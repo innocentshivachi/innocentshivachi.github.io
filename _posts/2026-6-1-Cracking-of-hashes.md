@@ -3,10 +3,6 @@ tittle: CRACKING   OF   HASHES
 date: 2026-6-1
 categories: [Cybersecurity, web]
 tags: [john the ripper, hydra, crack station ]
-image:
-path: /assets/john.jpeg
-width: 1200
-height:630
 ---
 
 In cybersecurity, password security remains one of the most critical areas of defense. Tools like John the Ripper and Hydra are widely used in ethical hacking and penetration testing to test the strength of authentication systems and identify weak credentials.
