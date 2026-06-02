@@ -10,7 +10,7 @@ In cybersecurity, password security remains one of the most critical areas of de
 ## John the ripper
 
 john  is a powerful offline password cracking tool used to recover weak passwords from hashed files. It helps security professionals evaluate how strong stored password hashes are and whether they can be easily cracked using dictionary or brute-force techniques.That's  why it  is  the mostly used.
-![John the ripper image](/assests/john.jpeg) {: width="600"}
+![John the ripper image](/assets/john.jpeg) {: width="600"}
 
 ## Hydra
 
