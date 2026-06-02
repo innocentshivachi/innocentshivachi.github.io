@@ -15,7 +15,7 @@ john  is a powerful offline password cracking tool used to recover weak password
 ## Hydra
 
 is a fast and flexible online brute-force attack tool used to test login systems such as SSH, FTP, HTTP, and more. It allows security testers to simulate real-world login attacks and assess how well systems resist repeated authentication attempts.
-![Hydra image](?assets/hydra.png) {: width="600"}
+![Hydra image](/assets/hydra.png) {: width="600"}
 
 ## Crack the Station
 
